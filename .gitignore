@@ -1,0 +1,13 @@
+# Secrets - never commit database credentials
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Excel temporary lock files
+~$*
