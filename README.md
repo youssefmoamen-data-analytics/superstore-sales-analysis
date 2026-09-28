@@ -2,7 +2,7 @@
 
 An end-to-end data analysis project on retail sales data, using **Python**, **MySQL**, **Excel**, and **Power BI**.
 
-![Dashboard](powerbi/dashboard.png)
+![Dashboard](powerbi/dashboard.png.png)
 
 ## Project Overview
 
