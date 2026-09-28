@@ -80,4 +80,4 @@ An interactive dashboard with KPI cards, region, category, monthly trend, and to
 ## Author
 
 **Youssef Moamen**
-[LinkedIn](www.linkedin.com/in/youssef-moamen-900b0343a) · [GitHub](https://github.com/youssefmoamen-data-analytics)
+[LinkedIn](https://www.linkedin.com/in/youssef-moamen-900b0343a) · [GitHub](https://github.com/youssefmoamen-data-analytics)
