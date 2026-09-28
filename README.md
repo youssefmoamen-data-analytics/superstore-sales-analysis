@@ -75,7 +75,7 @@ An interactive dashboard with KPI cards, region, category, monthly trend, and to
    DB_PASSWORD=your_password
    ```
 4. Run `python/import_superstore.py` to load the data into MySQL
-5. Run the queries in `sql/superstore_analysis.sql`
+5. Run the queries in `sql/superstore_analysis.sql.sql`
 
 ## Author
 
